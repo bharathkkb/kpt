@@ -1,7 +1,7 @@
 apiVersion: kpt.dev/v1
 kind: Kptfile
 metadata:
-  name: wordpress
+  name: wordpress-pkg
 info:
   emails:
     - kpt-team@google.com
