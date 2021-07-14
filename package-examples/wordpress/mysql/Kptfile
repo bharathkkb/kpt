@@ -1,7 +1,7 @@
 apiVersion: kpt.dev/v1
 kind: Kptfile
 metadata:
-  name: mysql
+  name: mysql-package
 info:
   emails:
     - kpt-team@google.com
